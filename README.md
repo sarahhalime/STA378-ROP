@@ -12,3 +12,16 @@ Slides for STA258
 - Time permitting:
   - Create Quarto slides which correspond to Chapter 1 of the e-book
   - Explore converting `.rmd` chatpers from e-book to `.qmd`
+
+## Resources
+
+- e-book:
+  - [https://nishanmudalige.github.io/STA258_Book/](https://nishanmudalige.github.io/STA258_Book/)
+  - [https://github.com/nishanmudalige/STA258_Book](https://github.com/nishanmudalige/STA258_Book)
+- Quarto website:
+  - [https://quarto.org](https://quarto.org)
+  - [https://quarto.org/docs/presentations/](https://quarto.org/docs/presentations/)
+- Irene's Quarto content:
+  - [https://github.com/vrbiki/quarto-web](https://github.com/vrbiki/quarto-web)
+- Other
+  - [https://www.lucymcgowan.com/teaching/](https://www.lucymcgowan.com/teaching/)
