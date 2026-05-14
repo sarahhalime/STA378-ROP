@@ -1,9 +1,10 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "STA258"
+  site-url: "https://nishanmudalige.github.io/STA258_Slides"
   search: false
   navbar:
     left:

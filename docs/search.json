@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "STA258 Slides",
+    "section": "",
+    "text": "Work in Progress"
+  },
+  {
+    "objectID": "index.html#chapters",
+    "href": "index.html#chapters",
+    "title": "STA258 Slides",
+    "section": "Chapters",
+    "text": "Chapters\n\n\n\nChapter 1\n\n\nIntroduction, foundations, and types of data.\n\nOpen\n\n\n\nChapter 2\n\n\nAn introduction to R, RStudio, and basic programming.\n\nOpen\n\n\n\nChapter 3\n\n\nDescriptive statistics, graphs, boxplots, and numerical summaries.\n\nOpen\n\n\n\nChapter 4\n\n\nFoundations of inference, sampling distributions, CLT, and LLN.\n\nOpen\n\n\n\nChapter 5\n\n\nConfidence intervals for means, proportions, variances, and paired data.\n\nOpen\n\n\n\nChapter 6\n\n\nHypothesis tests: one-sample, two-sample, and paired.\n\nOpen\n\n\n\nChapter 7\n\n\nStatistical power, Type I & II errors, and sample size.\n\nOpen\n\n\n\nChapter 8\n\n\nAnalysis of variance (ANOVA) and the F-test.\n\nOpen\n\n\n\nChapter 9\n\n\nSimple linear regression, least squares, and residual analysis.\n\nOpen\n\n\n\nChapter 10\n\n\nAnalysis of categorical data and chi-square goodness of fit.\n\nOpen"
+  },
+  {
+    "objectID": "index.html#resources",
+    "href": "index.html#resources",
+    "title": "STA258 Slides",
+    "section": "Resources",
+    "text": "Resources\n\nSTA258 e-book"
+  },
+  {
+    "objectID": "chapter1-slides.html",
+    "href": "chapter1-slides.html",
+    "title": "Chapter 1: Introduction",
+    "section": "",
+    "text": "The science of collecting, organizing, analyzing, and interpreting data to make decisions under uncertainty."
+  },
+  {
+    "objectID": "chapter1-slides.html#what-is-statistics",
+    "href": "chapter1-slides.html#what-is-statistics",
+    "title": "Chapter 1: Introduction",
+    "section": "",
+    "text": "The science of collecting, organizing, analyzing, and interpreting data to make decisions under uncertainty."
+  },
+  {
+    "objectID": "chapter1-slides.html#foundations",
+    "href": "chapter1-slides.html#foundations",
+    "title": "Chapter 1: Introduction",
+    "section": "1.1 Foundations",
+    "text": "1.1 Foundations\n\nPopulation — the full set of individuals of interest\nSample — a subset of the population we observe\nParameter — a numerical summary of the population\nStatistic — a numerical summary of the sample"
+  },
+  {
+    "objectID": "chapter1-slides.html#types-of-data",
+    "href": "chapter1-slides.html#types-of-data",
+    "title": "Chapter 1: Introduction",
+    "section": "1.2 Types of Data",
+    "text": "1.2 Types of Data\n\n\nCategorical — qualitative labels (e.g. gender, colour)\nDiscrete — countable values (e.g. number of defects)\nContinuous — measured on a scale (e.g. height, temperature)"
+  },
+  {
+    "objectID": "chapter1-slides.html#inferential-statistics",
+    "href": "chapter1-slides.html#inferential-statistics",
+    "title": "Chapter 1: Introduction",
+    "section": "1.3 Inferential Statistics",
+    "text": "1.3 Inferential Statistics\nWe use a sample to make conclusions about a population.\n\\[\n\\text{Sample} \\xrightarrow{\\text{inference}} \\text{Population}\n\\]\nKey tools: estimation, hypothesis testing, confidence intervals."
+  },
+  {
+    "objectID": "chapter1-slides.html#key-takeaways",
+    "href": "chapter1-slides.html#key-takeaways",
+    "title": "Chapter 1: Introduction",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\n\nStatistics bridges data and decisions\nKnow whether your data is categorical or numerical\nInference always involves uncertainty — quantify it"
+  },
+  {
+    "objectID": "chapter2.html",
+    "href": "chapter2.html",
+    "title": "Chapter 2: Introduction to R",
+    "section": "",
+    "text": "Slides PDF\n\n\n\nWork in Progress"
+  },
+  {
+    "objectID": "chapter1.html",
+    "href": "chapter1.html",
+    "title": "Chapter 1: Introduction",
+    "section": "",
+    "text": "Slides PDF"
+  },
+  {
+    "objectID": "chapter1.html#summary",
+    "href": "chapter1.html#summary",
+    "title": "Chapter 1: Introduction",
+    "section": "Summary",
+    "text": "Summary\n\nStatistics = collecting, organizing, and interpreting data under uncertainty\nCategorical data: labels (e.g. colour, yes/no)\nDiscrete data: countable numbers (e.g. number of students)\nContinuous data: measured values (e.g. height, temperature)\nA sample is used to make conclusions about a population\nAlways comes with uncertainty — that’s the point of inference"
+  }
+]
