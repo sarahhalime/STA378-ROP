@@ -3,6 +3,18 @@ Slides for STA258
 
 # Things to do
 
+## For May 21
+
+- Make the quarto slides appear more like slides
+  - see Irene's slides on [https://github.com/nishanmudalige/STA258_Slides](https://github.com/nishanmudalige/STA258_Slides)
+- Complete chapter 1
+  - Have the slides align with textbook
+- Figure out how to insert blank slide in between slides
+- Start working on Chapter 2 slides: Descriptive Statistics
+  - Create 2 new branches (eg 2.1, 2.2)
+  - Incorporate plots
+  - Incorporate interactive elements
+ 
 ## For May 14
 
 - Get familiar with Quarto
