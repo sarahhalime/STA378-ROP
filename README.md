@@ -6,11 +6,12 @@ Slides for STA258
 ## For May 21
 
 - Make the quarto slides appear more like slides
-  - see Irene's slides on [https://github.com/nishanmudalige/STA258_Slides](https://github.com/nishanmudalige/STA258_Slides)
+  - See Irene's slides on [https://github.com/nishanmudalige/STA258_Slides](https://github.com/nishanmudalige/STA258_Slides)
 - Complete chapter 1
   - Have the slides align with textbook
+- Fix issue with button styling
 - Figure out how to insert blank slide in between slides
-- Start working on Chapter 2 slides: Descriptive Statistics
+- Start working on Chapter 2 slides: Descriptive Statistics (Complete as much as possible, since it is a big chapter)
   - Create 2 new branches (eg 2.1, 2.2)
   - Incorporate plots
   - Incorporate interactive elements
