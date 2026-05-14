@@ -31,8 +31,8 @@
     "objectID": "chapter1-slides.html#what-is-statistics",
     "href": "chapter1-slides.html#what-is-statistics",
     "title": "Chapter 1: Introduction",
-    "section": "",
-    "text": "The science of collecting, organizing, analyzing, and interpreting data to make decisions under uncertainty."
+    "section": "What is Statistics?",
+    "text": "What is Statistics?\nThe science of collecting, organizing, analyzing, and interpreting data to make decisions under uncertainty."
   },
   {
     "objectID": "chapter1-slides.html#foundations",
@@ -46,7 +46,7 @@
     "href": "chapter1-slides.html#types-of-data",
     "title": "Chapter 1: Introduction",
     "section": "1.2 Types of Data",
-    "text": "1.2 Types of Data\n\n\nCategorical — qualitative labels (e.g. gender, colour)\nDiscrete — countable values (e.g. number of defects)\nContinuous — measured on a scale (e.g. height, temperature)"
+    "text": "1.2 Types of Data\n\nCategorical — qualitative labels (e.g. gender, colour)\nDiscrete — countable values (e.g. number of defects)\nContinuous — measured on a scale (e.g. height, temperature)"
   },
   {
     "objectID": "chapter1-slides.html#inferential-statistics",
@@ -60,7 +60,7 @@
     "href": "chapter1-slides.html#key-takeaways",
     "title": "Chapter 1: Introduction",
     "section": "Key Takeaways",
-    "text": "Key Takeaways\n\n\nStatistics bridges data and decisions\nKnow whether your data is categorical or numerical\nInference always involves uncertainty — quantify it"
+    "text": "Key Takeaways\n\nStatistics bridges data and decisions\nKnow whether your data is categorical or numerical\nInference always involves uncertainty — quantify it"
   },
   {
     "objectID": "chapter2.html",
