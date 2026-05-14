@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "STA258"
+  search: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Chapters
+        menu:
+          - href: chapter1.qmd
+            text: "1 — Introduction"
+          - href: chapter2.qmd
+            text: "2 — Introduction to R"
+          - href: chapter3.qmd
+            text: "3 — Descriptive Statistics"
+          - href: chapter4.qmd
+            text: "4 — Foundations of Inference"
+          - href: chapter5.qmd
+            text: "5 — Confidence Intervals"
+          - href: chapter6.qmd
+            text: "6 — Hypothesis Tests"
+          - href: chapter7.qmd
+            text: "7 — Statistical Power"
+          - href: chapter8.qmd
+            text: "8 — Analysis of Variance"
+          - href: chapter9.qmd
+            text: "9 — Simple Linear Regression"
+          - href: chapter10.qmd
+            text: "10 — Categorical Data"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    code-fold: true
+    format-links: false

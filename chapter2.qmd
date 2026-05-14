@@ -1,0 +1,13 @@
+---
+title: "Chapter 2: Introduction to R"
+---
+
+<div class="lecture-actions">
+<a href="chapter2-slides.html" class="btn btn-dark" target="_blank">Slides</a>
+<a href="chapter2-slides.html?print-pdf" class="btn btn-outline-secondary" target="_blank">PDF</a>
+</div>
+
+---
+
+<p class="wip" style="text-align:left; font-size:18px; letter-spacing:0.5px;">Work in Progress</p>
+

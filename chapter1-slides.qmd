@@ -1,0 +1,57 @@
+---
+title: "Chapter 1: Introduction"
+subtitle: "STA258 — University of Toronto Mississauga"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    chalkboard: true
+    footer: "STA258 | Chapter 1"
+    pdf-separate-fragments: false
+    html-math-method: mathjax
+---
+
+## What is Statistics?
+
+The science of collecting, organizing, analyzing, and interpreting data to make decisions under uncertainty.
+
+---
+
+## 1.1 Foundations
+
+- **Population** — the full set of individuals of interest
+- **Sample** — a subset of the population we observe
+- **Parameter** — a numerical summary of the population
+- **Statistic** — a numerical summary of the sample
+
+---
+
+## 1.2 Types of Data
+
+::: {.incremental}
+- **Categorical** — qualitative labels (e.g. gender, colour)
+- **Discrete** — countable values (e.g. number of defects)
+- **Continuous** — measured on a scale (e.g. height, temperature)
+:::
+
+---
+
+## 1.3 Inferential Statistics
+
+We use a **sample** to make conclusions about a **population**.
+
+$$
+\text{Sample} \xrightarrow{\text{inference}} \text{Population}
+$$
+
+Key tools: estimation, hypothesis testing, confidence intervals.
+
+---
+
+## Key Takeaways
+
+::: {.incremental}
+- Statistics bridges data and decisions
+- Know whether your data is categorical or numerical
+- Inference always involves uncertainty — quantify it
+:::
